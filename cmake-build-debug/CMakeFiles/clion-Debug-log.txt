@@ -1,0 +1,4 @@
+"C:\Program Files\JetBrains\CLion 2025.1.1\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=C:/Program Files/JetBrains/CLion 2025.1.1/bin/ninja/win/x64/ninja.exe" -G Ninja -S "C:\Users\MSI Katana\Desktop\Навчання\4 курс\1 семестр\Курсова робота\ParallelComputing CW" -B "C:\Users\MSI Katana\Desktop\Навчання\4 курс\1 семестр\Курсова робота\ParallelComputing CW\cmake-build-debug"
+-- Configuring done (0.2s)
+-- Generating done (0.0s)
+-- Build files have been written to: C:/Users/MSI Katana/Desktop/Навчання/4 курс/1 семестр/Курсова робота/ParallelComputing CW/cmake-build-debug
