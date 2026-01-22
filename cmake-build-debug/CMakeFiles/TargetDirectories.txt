@@ -1,3 +1,0 @@
-C:/Users/MSI Katana/Desktop/Навчання/4 курс/1 семестр/Курсова робота/ParallelComputing CW/cmake-build-debug/CMakeFiles/ParallelComputing_CW.dir
-C:/Users/MSI Katana/Desktop/Навчання/4 курс/1 семестр/Курсова робота/ParallelComputing CW/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/MSI Katana/Desktop/Навчання/4 курс/1 семестр/Курсова робота/ParallelComputing CW/cmake-build-debug/CMakeFiles/rebuild_cache.dir
