@@ -1,0 +1,3 @@
+C:/Users/MSI Katana/Desktop/Навчання/4 курс/1 семестр/Курсова робота/cpp_client/cmake-build-debug/CMakeFiles/cpp_client.dir
+C:/Users/MSI Katana/Desktop/Навчання/4 курс/1 семестр/Курсова робота/cpp_client/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/MSI Katana/Desktop/Навчання/4 курс/1 семестр/Курсова робота/cpp_client/cmake-build-debug/CMakeFiles/rebuild_cache.dir
